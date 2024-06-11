@@ -4,12 +4,21 @@
 Technology Leader
 -----------------
 
-CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | hands-on | multiple exits
+CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | multiple exits
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vonliechti/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 * 🌍  I'm based in California
 * 🚀  I'm currently working on [Durg.ai](http://durg.ai)
+* 👨‍💻  I'm a CTO who codes.  Most of my code is private.  Some is here on GitHub.
 
-### Skills
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,6 +26,8 @@ CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | hands-on | multiple e
   </a>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/kurisu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vonliechti/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kurisu&theme=dark&background=000000)](https://git.io/streak-stats)
