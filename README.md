@@ -28,6 +28,5 @@ CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | multiple exits
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kurisu&theme=dark&background=000000)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
