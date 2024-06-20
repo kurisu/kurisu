@@ -29,4 +29,6 @@ CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | multiple exits
 ---
 
 ![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/languages.svg#gh-light-mode-only)
