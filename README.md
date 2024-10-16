@@ -20,11 +20,7 @@ CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | multiple exits
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,anaconda,androidstudio,aws,c,cs,cpp,cassandra,clojure,coffeescript,css,d3,tensorflow,pytorch,r,octave,django,dotnet,dynamodb,elasticsearch,express,figma,firebase,flask,gcp,github,githubactions,gherkin,heroku,html,idea,java,js,jenkins,jest,jquery,kotlin,linux,matlab,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,postgres,prometheus,py,rails,rabbitmq,react,redis,redux,regex,ruby,sass,sqlite,sublime,sklearn,selenium,sentry,swift,terraform,unity,vim,vscode" />
-  </a>
-</p>
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,anaconda,jupyter,huggingface,langchain,llamaindex,ollama,chatgpt,seaborn,androidstudio,aws,cassandra,clojure,coffeescript,css,d3,tensorflow,pytorch,r,octave,django,dotnet,dynamodb,elasticsearch,metabase,express,figma,firebase,flask,gcp,github,githubactions,gherkin,heroku,html,idea,java,js,jenkins,jest,jquery,kotlin,linux,matlab,mongodb,mysql,nextjs,nginx,nodejs,npm,opencv,postgres,prometheus,grafana,py,rails,rabbitmq,react,redis,redux,regex,ruby,c,cs,cpp,sass,sqlite,sublime,sklearn,selenium,sentry,swift,terraform,unity,vim,vscode&titles=true)
 
 ---
 
