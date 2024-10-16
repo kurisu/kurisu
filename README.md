@@ -4,7 +4,7 @@
 Technology Leader
 -----------------
 
-CTO | Executive | Stanford GSB Alum | IPO | hyper-growth | multiple exits
+Veteran Tech Leader | Executive | Stanford GSB Alum | IPO | Startups | hyper-growth | multiple exits
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vonliechti/">
