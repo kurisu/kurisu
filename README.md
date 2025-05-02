@@ -13,8 +13,8 @@ Veteran Tech Leader | Executive | Stanford GSB Alum | IPO | Startups | hyper-gro
 </div>
 
 * 🌍  I'm based in California
-* 🚀  I'm currently working on [Durg.ai](http://durg.ai)
-* 👨‍💻  I'm a CTO who codes.  Most of my code is private.  Some is here on GitHub.
+* 🚀  I'm currently working at [BillionToOne](https://billiontoone.com)
+* 👨‍💻  I'm a Tech Leader who codes.  Most of my code is private.  Some is here on GitHub.
 
 ---
 
