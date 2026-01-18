@@ -4,7 +4,7 @@
 Technology Leader
 -----------------
 
-Veteran Tech Leader | Executive | Stanford GSB Alum | IPO | Startups | hyper-growth | multiple exits
+Veteran Tech Leader | Executive | Stanford GSB Alum | IPOs | Startups | hyper-growth | multiple exits
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vonliechti/">
@@ -13,7 +13,7 @@ Veteran Tech Leader | Executive | Stanford GSB Alum | IPO | Startups | hyper-gro
 </div>
 
 * 🌍  I'm based in California
-* 🚀  I'm currently working at [BillionToOne](https://billiontoone.com)
+* 🚀  I'm currently working at [KinPath](https://kinpath.app)
 * 👨‍💻  I'm a Tech Leader who codes.  Most of my code is private.  Some is here on GitHub.
 
 ---
